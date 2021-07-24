@@ -50,9 +50,9 @@ const options = {
     gradient: {
       shade: 'dark',
       opacityFrom: 0.7,
-      opacityTo: 0.3
-    }
-  }
+      opacityTo: 0.3,
+    },
+  },
 };
 const series = [{ name: 'series1', data: [31, 120, 10, 28, 51, 109] }];
 
